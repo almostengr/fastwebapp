@@ -31,7 +31,7 @@ Click Save
 4) If you receive a prompt about enabling additional modules, click "Continue".
 
 ## Create a new Page 
-1) In the Navigation block, click *Add content* > *Basic page*
+1) In the Navigation block, click *Add content* > *Article*
 2) Enter a title and some content for the page. Then click Save at the bottom.
 3) Your new page will be active. 
 
