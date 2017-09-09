@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Node REST API feature.
+ */
+
+include_once 'node_rest_api.features.inc';
