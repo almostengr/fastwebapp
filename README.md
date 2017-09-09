@@ -7,13 +7,14 @@ for developers that do not have time to code a custom application from scratch o
 software, but does not have programming knowledge.
 
 ## Database Configuration and Site Setup 
-* Navigate to the URL of your website.
-* Select the Standard installation profile
-* Select the language.
-* Enter database credentials. *NOTE: If you already have a settings.php file in place in the sites/default directory, you will not be prompted for these credentials.*
-* The installer will run. Once completed, enter the details about the website. These details can be updated at a later time.
-*The account details that are entered, are for the website's admin user.*
-* Once setup is complete, you'll be directed to the websites home page.
+1) Navigate to the URL of your website.
+2) Select the Standard installation profile
+3) Select the language.
+*NOTE: If you receive a message about the server not being able to write create settings.php file or not having access to sites/default/files directory, you'll need to change the folder permissions so that the web server user has write access to the directory.*
+4) Enter database credentials. *NOTE: If you already have a settings.php file in place in the sites/default directory, you will not be prompted for these credentials.*
+5) The installer will run. Once completed, enter the details about the website. These details can be updated at a later time.
+6) The account details that are entered, are for the website's admin user.
+7) Once setup is complete, you'll be directed to the websites home page.
 
 ## Adding and Removing Modules
 1) In the toolbar, click *Modules*
