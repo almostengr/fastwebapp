@@ -63,10 +63,10 @@ Click Save
 
 ## Testing the REST API
 1) Open tool that can submit REST requests (e.g. Poster)
-2) Enter the URL http://<domain>/api/node.json. Replace *<domain>* with the base URL to your website.
+2) Enter the URL http://*domain*/api/node.json. Replace *domain* with the base URL to your website.
 3) Send the GET request. 
 4) Response similar to the below should be received
 ```json
-[{"nid":"1","vid":"1","type":"page","language":"und","title":"first page","uid":"1","status":"1","created":"1504968410","changed":"1504968410","comment":"0","promote":"0","sticky":"0","tnid":"0","translate":"0","uri":"http://<domain>/api/node/1"}]
+[{"nid":"1","vid":"1","type":"page","language":"und","title":"first page","uid":"1","status":"1","created":"1504968410","changed":"1504968410","comment":"0","promote":"0","sticky":"0","tnid":"0","translate":"0","uri":"http://domain/api/node/1"}]
 ```
 
