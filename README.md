@@ -2,7 +2,7 @@
 Demostration for how to create a web app using Drupal. Steps are provided in README file.
 
 ## Purpose
-This project is to each users how to build a Drupal-based web application without writing any code. This is beneficial 
+This project is to teach users how to build a Drupal-based web application without writing any code. This is beneficial 
 for developers that do not have time to code a custom application from scratch or for someone who wants to build custom 
 software, but does not have programming knowledge.
 
