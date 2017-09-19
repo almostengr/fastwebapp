@@ -6,6 +6,9 @@ This project is to teach users how to build a Drupal-based web application witho
 for developers that do not have time to code a custom application from scratch or for someone who wants to build custom 
 software, but does not have programming knowledge.
 
+## Additional Modules and Features
+Visit [https://www.drupal.org/project/project_module](https://www.drupal.org/project/project_module) to install additional modules and themes on your website.
+
 ## Database Configuration and Site Setup 
 1) Navigate to the URL of your website.
 2) Select the Standard installation profile
@@ -70,4 +73,5 @@ Click Save
 ```json
 [{"nid":"1","vid":"1","type":"page","language":"und","title":"first page","uid":"1","status":"1","created":"1504968410","changed":"1504968410","comment":"0","promote":"0","sticky":"0","tnid":"0","translate":"0","uri":"http://domain/api/node/1"}]
 ```
+
 
