@@ -10,6 +10,9 @@ software, but does not have programming knowledge.
 Visit [http://www.drupal.org/](http://www.drupal.org) for more information about Drupal.
 Visit [https://www.drupal.org/project/project_module](https://www.drupal.org/project/project_module) to install additional modules and themes on your website.
 
+## Presentation
+Powerpoint presentation presenting the informaion below can be found in the "nondrupal" folder.
+
 ## Database Configuration and Site Setup 
 1) Navigate to the URL of your website.
 2) Select the Standard installation profile
