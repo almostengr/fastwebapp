@@ -7,13 +7,14 @@ for developers that do not have time to code a custom application from scratch o
 software, but does not have programming knowledge.
 
 ## Additional Modules and Features
+Visit [http://www.drupal.org/](http://www.drupal.org) for more information about Drupal.
 Visit [https://www.drupal.org/project/project_module](https://www.drupal.org/project/project_module) to install additional modules and themes on your website.
 
 ## Database Configuration and Site Setup 
 1) Navigate to the URL of your website.
 2) Select the Standard installation profile
 3) Select the language.
-*NOTE: If you receive a message about the server not being able to write create settings.php file or not having access to sites/default/files directory, you'll need to change the folder permissions so that the web server user has write access to the directory.*
+*NOTE: If you receive a message about the server not being able to write settings.php file or not having access to sites/default/files directory, you'll need to change the folder permissions so that the web server user has write access to the directory.*
 4) Enter database credentials. *NOTE: If you already have a settings.php file in place in the sites/default directory, you will not be prompted for these credentials.*
 5) The installer will run. Once completed, enter the details about the website. These details can be updated at a later time.
 6) The account details that are entered, are for the website's admin user.
